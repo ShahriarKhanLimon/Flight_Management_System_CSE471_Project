@@ -1,1 +1,2 @@
 # Flight_Management_System_CSE471_Project
+As part of a System Analysis and Design course, a Flight Management System was collaboratively developed. This system addressed the diverse needs of passengers, airline authorities, and airport administrators. Key features, including booking, tracking, and payment options, were meticulously implemented to ensure operational efficiency, performance, security, and regulatory compliance were upheld throughout the development process.
